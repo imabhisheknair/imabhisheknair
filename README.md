@@ -2,7 +2,7 @@
 - 👀 I’m a self taught Python developer.
 - 🌱 I’ve skills in Django framework.
 - 💞️ I’m looking to start my career as a Python developer.
-- 📫 Contact me at abhisheknairav@gmail.com
+- 📫 Reach me at abhisheknairav@gmail.com
 
 <!---
 imabhisheknair/imabhisheknair is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
