@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @imabhisheknair
-- 👀 I’m a self taught Python developer.
-- 🌟 I’ve skills in Django framework.
-- 🌱 I’m looking to start my career as a Python developer.
+- 👀 I’m a self-taught Python developer.
 - 📫 Reach me at abhisheknairav@gmail.com
 
 <!---
