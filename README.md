@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @imabhisheknair
-- 👀 I’m a self-taught Python developer.
+- 👀 Python developer at Cloudcity
 - 📫 Reach me at abhisheknairav@gmail.com
 
 <!---
